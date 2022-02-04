@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "phpmyadminuser",
+    "password": "sdfhkjsaldfha12233@@&(*%*&D",
+    "database": "db_massenger_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "db_massenger_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "db_massenger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
