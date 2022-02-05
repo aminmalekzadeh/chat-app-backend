@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "phpmyadminuser",
-    "password": "sdfhkjsaldfha12233@@&(*%*&D",
-    "database": "db_massenger_dev",
+    "username": "USER_NAME_MYSQL",
+    "password": "PASSWORD_MYSQL",
+    "database": "DATABASE_NAME_VERSION_DEV",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "db_massenger_test",
+    "username": "USER_NAME_MYSQL",
+    "password": "PASSWORD_MYSQL",
+    "database": "DATABASE_NAME_VERSION_TEST",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "db_massenger",
+    "username": "USER_NAME_MYSQL",
+    "password": "PASSWORD_MYSQL",
+    "database": "DATABASE_NAME_VERSION_PRODUCTION",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
